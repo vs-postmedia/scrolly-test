@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/scrolly-test/static/css/main.a03dbb20.chunk.css",
+    "main.js": "/scrolly-test/static/js/main.88fc2107.chunk.js",
+    "main.js.map": "/scrolly-test/static/js/main.88fc2107.chunk.js.map",
+    "runtime~main.js": "/scrolly-test/static/js/runtime~main.4fd5de05.js",
+    "runtime~main.js.map": "/scrolly-test/static/js/runtime~main.4fd5de05.js.map",
+    "static/js/2.2ce84108.chunk.js": "/scrolly-test/static/js/2.2ce84108.chunk.js",
+    "static/js/2.2ce84108.chunk.js.map": "/scrolly-test/static/js/2.2ce84108.chunk.js.map",
+    "index.html": "/scrolly-test/index.html",
+    "precache-manifest.9fcee370bcf9cbb4b3fafa41d8c92694.js": "/scrolly-test/precache-manifest.9fcee370bcf9cbb4b3fafa41d8c92694.js",
+    "service-worker.js": "/scrolly-test/service-worker.js",
+    "static/css/main.a03dbb20.chunk.css.map": "/scrolly-test/static/css/main.a03dbb20.chunk.css.map",
+    "static/media/index.css": "/scrolly-test/static/media/Shift-BoldItalic.5c3edbfd.otf"
+  }
+}
